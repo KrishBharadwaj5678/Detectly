@@ -17,20 +17,6 @@ A real-time web application that detects 👤 human faces, 🧍 body poses, ✋ 
 
 ---
 
-## 🔗 Live Demo
-
-🌍 [Try it here](https://your-live-site-url.com)  
-_(Replace with your deployed link, e.g., Vercel, Netlify, GitHub Pages)_
-
----
-
-## 🖼️ Preview
-
-![Detectly Preview](assets/preview.png)  
-_Add a screenshot in the `assets/` folder and update this path._
-
----
-
 ## 🛠️ Built With
 
 - 💻 HTML5 + CSS3 + JavaScript
