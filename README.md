@@ -28,14 +28,18 @@
 ## 🚀 Getting Started
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/KrishBharadwaj5678/Detectly.git
    ```
+   
 2. Navigate to the project directory:
+   
    ```bash
    cd Detectly
    ```
-3. Open your browser:
+   
+3. Open your browser
 
 ✅ Allow camera access when prompted to start real-time detection
 
