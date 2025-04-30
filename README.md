@@ -25,15 +25,17 @@
 
 ---
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
-1. Clone the Repository
-git clone https://github.com/KrishBharadwaj5678/Detectly.git
-cd Detectly
-
-2. Open in your browser
-# Visit the following URL in your browser:
-http://127.0.0.1:5500/index.html
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/KrishBharadwaj5678/Detectly.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Detectly
+   ```
+3. Open your browser:
 
 ✅ Allow camera access when prompted to start real-time detection
 
