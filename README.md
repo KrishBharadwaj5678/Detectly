@@ -1,4 +1,4 @@
-# 🤖 Detectly
+# 🧑‍💻 Detectly
 
 A real-time web application that detects human faces, hands, body poses, gestures, and objects using your webcam all directly in the browser, powered by [Human.js](https://github.com/vladmandic/human)! 🚀
 
