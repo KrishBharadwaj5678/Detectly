@@ -6,7 +6,7 @@
 
 ## 🌟 Features
 
-- 👤 **Face Detection** (with rotation support)
+- 👤 **Face Detection**
 - 🧍 **Body Pose Estimation**
 - ✋ **Hand Tracking**
 - ✨ **Gesture Recognition**
