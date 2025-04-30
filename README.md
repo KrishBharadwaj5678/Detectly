@@ -28,7 +28,7 @@ A real-time web application that detects human faces, body poses, hands, gesture
 # 🚀 Getting Started
 
 # 1. Clone the Repository
-git clone https://github.com/Decode-AR/Detectly.git
+git clone https://github.com/KrishBharadwaj5678/Detectly.git
 cd Detectly
 
 # 2. Open in your browser
