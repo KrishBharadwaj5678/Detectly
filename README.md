@@ -36,3 +36,16 @@ cd Detectly
 http://127.0.0.1:5500/index.html
 
 # ✅ Allow camera access when prompted to start real-time detection
+
+---
+
+## 🤝 Contributing
+
+If you'd like to contribute to Detectly, please follow these steps:
+
+- 🍴 Fork the repository
+- 📥 Create your feature branch: git checkout -b feature/YourFeatureName
+- 🛠️ Make your changes
+- ✅ Commit your changes: git commit -m 'Add SomeFeature'
+- 📤 Push to the branch: git push origin feature/YourFeatureName
+- 🧵 Open a Pull Request
