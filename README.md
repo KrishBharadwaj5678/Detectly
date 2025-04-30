@@ -1,6 +1,6 @@
 # 🤖 Detectly
 
-🚀 A real-time web application that detects human faces, hands, body poses, gestures, and objects using your webcam all directly in the browser, powered by [Human.js](https://github.com/vladmandic/human)!
+A real-time web application that detects human faces, hands, body poses, gestures, and objects using your webcam all directly in the browser, powered by [Human.js](https://github.com/vladmandic/human)!🚀
 
 ---
 
@@ -50,8 +50,8 @@
 If you'd like to contribute to Detectly, please follow these steps:
 
 - 🍴 Fork the repository
-- 📥 Create your feature branch: git checkout -b feature/YourFeatureName
+- 📥 Create your feature branch
 - 🛠️ Make your changes
-- ✅ Commit your changes: git commit -m 'Add SomeFeature'
-- 📤 Push to the branch: git push origin feature/YourFeatureName
+- ✅ Commit your changes
+- 📤 Push to the branch
 - 🧵 Open a Pull Request
