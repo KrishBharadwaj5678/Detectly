@@ -19,9 +19,11 @@ A real-time web application that detects human faces, hands, body poses, gesture
 
 ## 🛠️ Built With
 
-- 💻 HTML5 + CSS3 + JavaScript
-- 🧠 Human.js – Real-time AI for face, body, hand, object & gesture detection
-- 🖌️ Canvas API – For drawing detection overlays
+| Technology | Description |
+|-------------|--------------|
+| 💻 **HTML5 + CSS3 + JavaScript** | Core web technologies used for structure, styling, and interactivity. |
+| 🧠 **Human.js** | Real-time AI library for face, body, hand, object, and gesture detection. |
+| 🖌️ **Canvas API** | Used for rendering and drawing detection overlays dynamically on the screen. |
 
 ---
 
