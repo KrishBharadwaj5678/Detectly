@@ -1,59 +1,80 @@
-# 🧑‍💻 Detectly
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/Detectly.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/Detectly?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/Detectly?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/Detectly?style=for-the-badge&color=blue" />
+</p>
 
-A real-time web application that detects human faces, hands, body poses, gestures, and objects using your webcam all directly in the browser, powered by [Human.js](https://github.com/vladmandic/human)! 🚀
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
 
----
+<h1 align="center"><img src="https://github.com/KrishBharadwaj5678/Detectly/raw/main/favicon_io/favicon.ico" width="35"/> Detectly</h1>
 
-## 🌟 Features
+<p align="center">
+  A real-time computer vision application that detects faces, hands, poses, gestures, and objects directly through your webcam.
+</p>
 
-- 👤 **Face Detection**
-- 🧍 **Body Pose Estimation**
-- ✋ **Hand Tracking**
-- ✨ **Gesture Recognition**
-- 📦 **Object Detection**
-- 🖼️ **Download Screenshot** of the current frame
-- 🕹️ **Toggle Detection Features** (Face, Body, Hand, Gesture, Object)
-- 📱 **Mobile Responsive Design**
+![DetectlyDemo](https://github.com/KrishBharadwaj5678/Detectly/raw/main/assets/demos/Detectly.png)
 
----
+<img src="https://github.com/KrishBharadwaj5678/Detectly/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🛠️ Built With
+## <img src="https://github.com/KrishBharadwaj5678/Detectly/raw/main/assets/readme/features.gif" width="35"/> Features
 
-| Technology | Description |
-|-------------|--------------|
-| 💻 **HTML5 + CSS3 + JavaScript** | Core web technologies used for structure, styling, and interactivity. |
-| 🧠 **Human.js** | Real-time AI library for face, body, hand, object, and gesture detection. |
-| 🖌️ **Canvas API** | Used for rendering and drawing detection overlays dynamically on the screen. |
+| Feature | Description |
+| ------------------------- | ------------------------------------------------ |
+| 👤 Face Detection | Detect and track faces in real time |
+| 🧍 Body Pose Estimation | Identify and track body movements and poses |
+| ✋ Hand Tracking | Track hand positions and movements accurately |
+| ✨ Gesture Recognition | Recognize gestures and hand movements in real time |
+| 📦 Object Detection | Detect and identify objects through the webcam |
+| 🖼️ Screenshot Download | Capture and download the current webcam frame |
+| 📱 Responsive Design | Works smoothly across desktop and mobile devices |
 
----
+<img src="https://github.com/KrishBharadwaj5678/Detectly/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🚀 Getting Started
+## <img src="https://github.com/KrishBharadwaj5678/Detectly/raw/main/assets/readme/techStack.gif" width="35"/> Tech Stack
 
-1. Clone the repository:
+| Technology | Purpose |
+| ---------- | ------- |
+| <img src="https://skillicons.dev/icons?i=html" width="25"/> **HTML5** | Provides the structure and layout of the web application |
+| <img src="https://skillicons.dev/icons?i=css" width="25"/> **CSS3** | Handles styling, responsive design, and visual presentation |
+| <img src="https://skillicons.dev/icons?i=js" width="25"/> **JavaScript** | Powers application logic, webcam access, and interactive features |
+| <img src="https://github.com/KrishBharadwaj5678/Detectly/raw/main/assets/icons/humanjs.png" width="25"/> **Human.js** | Enables real-time face, body, hand, gesture, and object detection |
+| <img src="https://github.com/KrishBharadwaj5678/Detectly/raw/main/assets/icons/canvas.png" width="25"/> **Canvas API** | Renders webcam frames and detection overlays dynamically |
+
+<img src="https://github.com/KrishBharadwaj5678/Detectly/raw/main/assets/readme/divider.gif" width="100%"/>
+
+## <img src="https://github.com/KrishBharadwaj5678/Detectly/raw/main/assets/readme/gettingStarted.gif" width="35"/> Getting Started
+
+### 1️⃣ Clone the Repository
    
-   ```bash
-   git clone https://github.com/KrishBharadwaj5678/Detectly.git
-   ```
+```bash
+git clone https://github.com/KrishBharadwaj5678/Detectly.git
+```
    
-2. Navigate to the project directory:
+### 2️⃣ Navigate to the Project
    
-   ```bash
-   cd Detectly
-   ```
+```bash
+cd Detectly
+```
    
-3. Open your browser
+### 3️⃣ Open in Browser
 
-✅ Allow camera access when prompted to start real-time detection
+Simply open `index.html` in your browser.
 
----
+<img src="https://github.com/KrishBharadwaj5678/Detectly/raw/main/assets/readme/divider.gif" width="100%"/>
 
-## 🤝 Contributing
+## <img src="https://github.com/KrishBharadwaj5678/Detectly/raw/main/assets/readme/license.gif" width="35"/> License
 
-If you'd like to contribute to Detectly, please follow these steps:
+This project is licensed under the **MIT License**.
 
-- 🍴 Fork the repository
-- 📥 Create your feature branch
-- 🛠️ Make your changes
-- ✅ Commit your changes
-- 📤 Push to the branch
-- 🧵 Open a Pull Request
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/Detectly/raw/main/assets/readme/footer.gif" width="320px"/>
+</p>
